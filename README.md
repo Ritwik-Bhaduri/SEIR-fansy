@@ -9,6 +9,8 @@
 [![](https://img.shields.io/github/languages/code-size/umich-biostatistics/SEIRfansy.svg)](https://github.com/umich-biostatistics/SEIRfansy)
 [![](https://img.shields.io/badge/doi-https://doi.org/10.1101/2020.09.24.20200238-orange.svg)](https://doi.org/https://doi.org/10.1101/2020.09.24.20200238)
 
+#### ** This is the old repository. The new repository is at <https://github.com/umich-biostatistics/SEIRfansy>
+
 ## Overview
 
 This `R` package fits Extended Susceptible-Exposed-Infected-Recovery
